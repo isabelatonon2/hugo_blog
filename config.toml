@@ -1,4 +1,4 @@
-theme = "soho"
+theme = "hyde"
 baseURL = "https://sleepy-bartik-8acb61.netlify.app"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Isabela Tonon"
